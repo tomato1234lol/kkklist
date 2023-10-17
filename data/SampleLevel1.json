@@ -1,18 +1,18 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "name": "Burrito Cat",
+    "author": "Tomato",
+    "creators": ["Tomato", "Syrup", "R0astT0ast, "FBITB", "Ploop", "WoolEndy", "BlueBacon", Silas123", "Dehydrated", "Pumpking", "Wvy"],
+    "verifier": "Tomato",
+    "verification": "",
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "Syrup",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 360
+            "hz": 98712398712398123987123987123
         }
     ]
 }
